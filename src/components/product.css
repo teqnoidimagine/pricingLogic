@@ -94,3 +94,23 @@
   .css-dev-only-do-not-override-3rel02.ant-switch.ant-switch-checked {
     background:linear-gradient(180deg, #F46A34 40%, #CA4613 100%);
   }
+/* .maxScreen{
+  margin: 2% 5%;
+  justify-content: center;
+} */
+@media (max-width: 1480px) {
+  .maxScreen{
+    margin: 2% 5%;
+    justify-content: center;
+  }
+
+ 
+}
+@media (min-width: 1480px) {
+  .maxScreen{
+    margin: 2% 25%;
+    justify-content: center;
+  }
+
+ 
+}

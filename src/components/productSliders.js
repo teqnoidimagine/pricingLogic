@@ -202,7 +202,7 @@ const ProductSliders = () => {
         </div>
       </div>
 
-      <div style={{ margin: "2% 25%" }}>
+      <div className="maxScreen" >
         <div
           title="Product Attributes"
           style={{
